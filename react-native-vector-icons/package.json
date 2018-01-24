@@ -2,50 +2,51 @@
   "_args": [
     [
       {
-        "raw": "react-native-vector-icons@~4.4.2",
+        "raw": "react-native-vector-icons",
         "scope": null,
         "escapedName": "react-native-vector-icons",
         "name": "react-native-vector-icons",
-        "rawSpec": "~4.4.2",
-        "spec": ">=4.4.2 <4.5.0",
-        "type": "range"
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
       },
-      "/Development/hakim/github/mangafun-react-native-auth/client/MangafunApp/node_modules/native-base"
+      "/Development/hakim/github/mangafun-react-native-auth/client/MangafunApp"
     ]
   ],
-  "_from": "react-native-vector-icons@>=4.4.2 <4.5.0",
-  "_id": "react-native-vector-icons@4.4.2",
+  "_from": "react-native-vector-icons@latest",
+  "_id": "react-native-vector-icons@4.5.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/react-native-vector-icons",
-  "_nodeVersion": "8.6.0",
+  "_nodeVersion": "8.9.4",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/react-native-vector-icons-4.4.2.tgz_1507456115330_0.926205015508458"
+    "tmp": "tmp/react-native-vector-icons-4.5.0.tgz_1515450966406_0.48046513739973307"
   },
   "_npmUser": {
     "name": "oblador",
     "email": "joel@oblador.se"
   },
-  "_npmVersion": "5.3.0",
+  "_npmVersion": "5.6.0",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "react-native-vector-icons@~4.4.2",
+    "raw": "react-native-vector-icons",
     "scope": null,
     "escapedName": "react-native-vector-icons",
     "name": "react-native-vector-icons",
-    "rawSpec": "~4.4.2",
-    "spec": ">=4.4.2 <4.5.0",
-    "type": "range"
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
   },
   "_requiredBy": [
-    "/native-base"
+    "#USER",
+    "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-4.4.2.tgz",
-  "_shasum": "090f42ee0396c4cc4eae0ddaa518028ba8df40c7",
+  "_resolved": "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-4.5.0.tgz",
+  "_shasum": "6b95619e64f62f05f579f74a01fe5640df95158b",
   "_shrinkwrap": null,
-  "_spec": "react-native-vector-icons@~4.4.2",
-  "_where": "/Development/hakim/github/mangafun-react-native-auth/client/MangafunApp/node_modules/native-base",
+  "_spec": "react-native-vector-icons",
+  "_where": "/Development/hakim/github/mangafun-react-native-auth/client/MangafunApp",
   "author": {
     "name": "Joel Arvidsson",
     "email": "joel@oblador.se"
@@ -77,17 +78,17 @@
     "font-awesome": "^4.6.3",
     "ionicons": "^3.0.0",
     "material-design-icons": "^3.0.1",
-    "mdi": "^2.0.46",
+    "mdi": "^2.1.19",
     "octicons": "^6.0.1",
     "prettier": "^1.5.3"
   },
   "directories": {},
   "dist": {
-    "integrity": "sha512-0E53c7OolA6nMuQdh4gTuYKGe0yPuVbNXHfty0gJoE3Bct80JE8Q8Rrlv8xWSFe8jqYcSPiUr8Lg1+G8LAttYg==",
-    "shasum": "090f42ee0396c4cc4eae0ddaa518028ba8df40c7",
-    "tarball": "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-4.4.2.tgz"
+    "integrity": "sha512-A2HdvmYxAohZ3w8FgdMi5kl3pUEXOz9sR3zsfpejIdispqAh6NRAHCqsI6DMRcymNgwWzmqLowPqp9eg5zqWLA==",
+    "shasum": "6b95619e64f62f05f579f74a01fe5640df95158b",
+    "tarball": "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-4.5.0.tgz"
   },
-  "gitHead": "ecb663003c5a0ffeacaeba7edfc95677a5985e22",
+  "gitHead": "37cb9a82be4be7d835b8dea45ca638542877b216",
   "homepage": "https://github.com/oblador/react-native-vector-icons",
   "keywords": [
     "react-native",
@@ -144,5 +145,5 @@
     "prepublish": "npm run build-web",
     "test": "eslint index.js {bin,lib}/*.js"
   },
-  "version": "4.4.2"
+  "version": "4.5.0"
 }
