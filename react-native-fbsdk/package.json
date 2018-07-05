@@ -1,8 +1,8 @@
 {
-  "_from": "react-native-fbsdk",
-  "_id": "react-native-fbsdk@0.7.0",
+  "_from": "react-native-fbsdk@^0.6.3",
+  "_id": "react-native-fbsdk@0.6.3",
   "_inBundle": false,
-  "_integrity": "sha512-wM+S+NGaqn437H6IYebLhBy2612aIXNPPxunvN5SdJVIIQZdGhkdDZUDbZmgmFnMRY3wQpQatzp+vRjEmAcEmg==",
+  "_integrity": "sha512-ii8SYzNJYMNLn9L2BxG2dXEvGGTHeB5q6XGVp/pX2vxdSl3/RVFe3yJUvaF87ayy/wz8yX815XVhtwbcCDcFjA==",
   "_location": "/react-native-fbsdk",
   "_phantomChildren": {
     "decompress-response": "3.3.0",
@@ -22,22 +22,21 @@
     "xmldom": "0.1.27"
   },
   "_requested": {
-    "type": "tag",
+    "type": "range",
     "registry": true,
-    "raw": "react-native-fbsdk",
+    "raw": "react-native-fbsdk@^0.6.3",
     "name": "react-native-fbsdk",
     "escapedName": "react-native-fbsdk",
-    "rawSpec": "",
+    "rawSpec": "^0.6.3",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "^0.6.3"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-fbsdk/-/react-native-fbsdk-0.7.0.tgz",
-  "_shasum": "263dfe5845205de7b80efb0f18ed5c1ded025291",
-  "_spec": "react-native-fbsdk",
+  "_resolved": "https://registry.npmjs.org/react-native-fbsdk/-/react-native-fbsdk-0.6.3.tgz",
+  "_shasum": "ab115264756d4060b8ec2a881194d9775fa8ee11",
+  "_spec": "react-native-fbsdk@^0.6.3",
   "_where": "/Development/hakim/github/mangafun-react-native-auth/client/MangafunApp",
   "author": {
     "name": "Zhuowen Deng"
@@ -81,5 +80,5 @@
     "type": "git",
     "url": "git+https://github.com/facebook/react-native-fbsdk.git"
   },
-  "version": "0.7.0"
+  "version": "0.6.3"
 }
